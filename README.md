@@ -1,3 +1,39 @@
+# 🛒 TrendStore 2025 - Modern E-commerce Frontend
+
+A professional, responsive e-commerce storefront built with **React 19** and **Vite**. This project demonstrates core frontend development skills including API integration, state management, and client-side routing.
+
+## 🚀 Live Demo
+**[Insert your Vercel Link Here]**
+
+## ✨ Features
+- **Dynamic Product Catalog:** Fetches real-time data from the [Fake Store API](fakestoreapi.com).
+- **Advanced Search:** Real-time product filtering using a case-insensitive search algorithm.
+- **Shopping Cart logic:** Fully functional cart system using React state management.
+- **Client-Side Routing:** Smooth page transitions between the Shop and Cart pages via `react-router-dom`.
+- **Responsive UI:** Modern, mobile-first design built with CSS Grid and Flexbox.
+- **Professional Icons:** Clean UI elements powered by `lucide-react`.
+
+## 🛠️ Tech Stack
+- **Frontend Framework:** React 19
+- **Build Tool:** Vite
+- **Routing:** React Router 6
+- **Icons:** Lucide React
+- **Hosting:** Vercel
+
+## 🧠 React Concepts Implemented
+- **Hooks:** `useState` for UI state and `useEffect` for asynchronous API calls.
+- **Lifting State Up:** Managing the global cart state in the parent component to share data between routes.
+- **Props:** Passing data and event handlers dynamically to child components.
+- **Conditional Rendering:** Handling loading states and "No Results Found" scenarios.
+- **Lists & Keys:** Optimized rendering of product arrays.
+
+## 📦 Installation & Setup
+1. Clone the repository:
+   ```bash
+   git clone [Your-Repo-Link]
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
